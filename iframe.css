@@ -1,0 +1,38 @@
+body{
+
+text-align: center;
+background: #c4d6a7;
+/*background-image: linear-gradient(#012b3b, #86c7d1)*/
+
+}
+
+h1 {
+
+    text-align: center;
+    color: black;
+   /* text-shadow: 1px 1px 2px #013738, 0 0 25px #04616f, 0 0 5px #0586be;*/
+    
+    }
+
+
+
+iframe {
+   /* border: 1mm ridge rgba(211, 220, 50, .6);*/
+    width: 100%;
+    height: 500px;
+    /*margin: auto;*/
+}
+
+.output {
+    background: #eee;
+}
+
+#p {
+    /*color:rgb(251, 212, 106);*/
+    /*background:#034e4b;*/
+    text-align: center;
+    /*background-image: linear-gradient(#045d6d, #00ffea, rgb(5, 68, 104));
+    text-shadow: 1px 1px 2px #013738, 0 0 25px #04616f, 0 0 5px #0586be;*/
+    
+  }
+  
